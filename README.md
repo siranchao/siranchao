@@ -14,7 +14,7 @@
 
 ## 🌈 What I'm Pursuing
 - To become a full-stack web developer
-- To dive deep into the digital world and discover more cool stuff😎
+- To dive deep into the digital world and discover more cool stuff 😎
 
 
 ## 💻 Languages and Tools I use
@@ -49,12 +49,11 @@ const siran = {
                     Diploma: {SenecaCollege: "Computer Programming and Analsis"},
                     Master: {UniOfQueensland: "International Business"},
                     Bachelor: {UniOfQueensland: "Business Management in Marketing"}
-                    },
-
-    favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"]  
+                   },
+    favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
     thingsILike: ["Cooking", "fishing", "video gaming"],
-    thingsIDislike: ["sports", "winter"],
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    thingsIDislike: ["sports", "winter", "alcohol"],
+    challenge: "I am doing self-study of mastering react.js in 100 days"
 }
 ```
 
