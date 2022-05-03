@@ -10,7 +10,8 @@
 ## 🌞 I'm Currently Doing
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
 - Low-code Application Dev at <a href="https://www.ontario.ca/page/ministry-government-and-consumer-services">Ministry of Government and Consumer Services (MGCS)</a>
-
+- Studying <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Power Platform</a> including: PowerApps, PowerAutomate, Power VirtualAgent
+- Studying <a href="https://reactjs.org/docs/getting-started.html">React.js</a> and <a href="https://redux.js.org/">Redux</a>
 
 ## 🌈 What I'm Pursuing
 - To become a full-stack web developer
