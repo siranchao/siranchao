@@ -39,12 +39,12 @@
 
 ## 📫 A little more about me:
 ```javascript
+//about me:
 const siran = {
     myName: "Siran Cao",
     married: true,
-    currentWork: "low-code dev co-op",
-    currentProgram: "Computer Programming and Analysis",
-    semester: 4,
+    currentWork: "low-code dev Co-op",
+    currentSemester: 4,
     eduBackground: {
                     Diploma: {SenecaCollege: "Computer Programming and Analsis"},
                     Master: {UniOfQueensland: "International Business"},
@@ -53,7 +53,7 @@ const siran = {
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
     thingsILike: ["cooking", "fishing", "video gaming"],
     thingsIDislike: ["sports", "winter", "alcohol"],
-    challenge: "I am doing self-study of mastering react.js in 100 days"
+    challenge: "I am doing self-study of mastering react.js in 100 days!"
 }
 ```
     
