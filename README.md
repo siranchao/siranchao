@@ -54,8 +54,8 @@ const siran = {
                     Bachelor: { UniOfQueensland: "Marketing" }
     },
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
-    thingsILike: ["cooking", "fishing", "video gaming"],
-    thingsIDislike: ["sports", "winter", "alcohol"],
+    like: ["cooking", "fishing", "video gaming"],
+    dislike: ["sports", "winter", "alcohol"],
     challenge: "I am doing self-study of mastering react.js in 100 days!",
     
     myFuture: undefined
