@@ -46,10 +46,10 @@ const siran = {
     currentWork: "low-code dev Co-op",
     currentSemester: 4,
     eduBackground: {
-                    Diploma: {SenecaCollege: "Computer Programming and Analsis"},
-                    Master: {UniOfQueensland: "International Business"},
-                    Bachelor: {UniOfQueensland: "Business Management in Marketing"}
-                   },
+                    Diploma: { SenecaCollege: "Computer Programming and Analsis" },
+                    Master: { UniOfQueensland: "International Business" },
+                    Bachelor: { UniOfQueensland: "Business Management in Marketing" }
+    },
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
     thingsILike: ["cooking", "fishing", "video gaming"],
     thingsIDislike: ["sports", "winter", "alcohol"],
