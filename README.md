@@ -48,7 +48,7 @@ const siran = {
     eduBackground: {
                     Diploma: { SenecaCollege: "Computer Programming and Analsis" },
                     Master: { UniOfQueensland: "International Business" },
-                    Bachelor: { UniOfQueensland: "Business Management in Marketing" }
+                    Bachelor: { UniOfQueensland: "Marketing" }
     },
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
     thingsILike: ["cooking", "fishing", "video gaming"],
