@@ -37,6 +37,9 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vs" width="40" height="40"/> </a> </p>
 
 
+![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/languages.svg)
+
 ## 📫 A little more about me:
 ```javascript
 //about me:
@@ -58,11 +61,7 @@ const siran = {
     myFuture: undefined
 }
 ```
-    
-
-![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/languages.svg)
-
+       
 
 
 <!---
