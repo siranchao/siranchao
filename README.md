@@ -40,11 +40,10 @@
 ## 📫 A little more about me:
 ```javascript
 const siran = {
-    firstName: "Siran",
-    lastName: "Cao",
+    myName: "Siran Cao",
     married: true,
     currentWork: "low-code dev co-op",
-    currentProgram: "Computer Programming and Analsis",
+    currentProgram: "Computer Programming and Analysis",
     semester: 4,
     eduBackground: {
                     Diploma: {SenecaCollege: "Computer Programming and Analsis"},
@@ -52,7 +51,7 @@ const siran = {
                     Bachelor: {UniOfQueensland: "Business Management in Marketing"}
                    },
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
-    thingsILike: ["Cooking", "fishing", "video gaming"],
+    thingsILike: ["cooking", "fishing", "video gaming"],
     thingsIDislike: ["sports", "winter", "alcohol"],
     challenge: "I am doing self-study of mastering react.js in 100 days"
 }
