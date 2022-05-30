@@ -56,7 +56,7 @@ const siran = {
     favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
     like: ["cooking", "fishing", "video gaming"],
     dislike: ["sports", "winter", "alcohol"],
-    challenge: "I am doing self-study of mastering react.js in 100 days!",
+    challenge: "I am doing self-study of mastering vue.js in 100 days!",
     
     myFuture: undefined
 }
