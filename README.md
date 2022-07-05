@@ -43,22 +43,24 @@
 ## 📫 A little more about me:
 ```javascript
 //about me:
-const siran = {
-    myName: "Siran Cao",
-    married: true,
-    currentWork: "low-code dev Co-op",
-    currentSemester: 4,
-    eduBackground: {
-                    Diploma: { SenecaCollege: "Computer Programming and Analsis" },
-                    Master: { UniOfQueensland: "International Business" },
-                    Bachelor: { UniOfQueensland: "Marketing" }
-    },
-    favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
-    like: ["cooking", "fishing", "video gaming"],
-    dislike: ["sports", "winter", "alcohol"],
-    challenge: "I am doing self-study of mastering vue.js in 100 days!",
-    
-    myFuture: undefined
+const siran = () => {
+    return {
+        myName: "Siran Cao",
+        married: true,
+        currentWork: "low-code dev Co-op",
+        currentSemester: 4,
+        eduBackground: {
+                        Diploma: { SenecaCollege: "Computer Programming and Analsis" },
+                        Master: { UniOfQueensland: "International Business" },
+                        Bachelor: { UniOfQueensland: "Marketing" }
+        },
+        favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
+        like: ["cooking", "gaming", "puppys"],
+        dislike: ["gyms", "winter", "alcohol"],
+        challenge: "I am doing self-study of mastering vue.js in 100 days!",
+
+        myFuture: undefined
+    }
 }
 ```
        
