@@ -44,7 +44,7 @@
 ## 📫 A little more about me:
 ```javascript
 //about me:
-const siran = () => {
+const moreAboutMe = () => {
     return {
         myName: "Siran Cao",
         married: true,
