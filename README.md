@@ -11,7 +11,7 @@
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
 - Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
 - Working on <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft low-code platform</a>: PowerApps, PowerAutomate
-- MEVN Stack applications: Vue3, Nuxt3, React, TypeScript etc.
+- MEVN, MERN Stack applications: React, Vue3, TypeScript, MongoDB, Nuxt3 etc.
 
 ## 🌈 What I'm Pursuing
 - To become a full-stack web developer
