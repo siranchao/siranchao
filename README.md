@@ -15,7 +15,7 @@
 
 ## 🌈 What I'm Pursuing
 - To become a full-stack web developer
-- To dive deep into "The Rabbit Hole" 😎
+- Dive deep into "The Rabbit Hole" to explore more IT technologies 😎
 
 
 ## 💻 Languages and Tools I use
