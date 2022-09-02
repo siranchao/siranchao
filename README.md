@@ -51,14 +51,14 @@ const moreAboutMe = () => {
         currentWork: "low-code dev Co-op",
         currentSemester: 4,
         eduBackground: {
-                        Diploma: { SenecaCollege: "Computer Programming and Analsis", year: 2023 },
-                        Master: { UniOfQueensland: "International Business", year: 2015 },
-                        Bachelor: { UniOfQueensland: "Marketing", year: 2013 }
+                        Diploma: { SenecaCollege: "Computer Programming and Analsis" },
+                        Master: { UniOfQueensland: "International Business" },
+                        Bachelor: { UniOfQueensland: "Marketing" }
         },
         favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
         like: ["cooking", "gaming", "puppys"],
         dislike: ["gyms", "winter", "alcohol"],
-        challenge: "I am doing self-study of mastering vue.js in 100 days!",
+        challenge: "I am doing self-study of mastering React.js in 100 days!",
 
         myFuture: undefined
     }
