@@ -18,7 +18,7 @@
 - Dive deep into "The Rabbit Hole" to explore more IT technologies 😎
 
 
-## 💻 Languages and Tools I use
+## 💻 Languages and Tools
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
