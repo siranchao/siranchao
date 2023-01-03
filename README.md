@@ -50,11 +50,11 @@ const moreAboutMe = () => {
         married: true,
         currentWork: "low-code dev Co-op",
         currentSemester: 4,
-        eduBackground: [
+        eduBackground: {
                         Diploma: { SenecaCollege: "Computer Programming and Analsis" },
                         Master: { UniOfQueensland: "International Business" },
-                        Bachelor: { UniOfQueensland: "Marketing" }
-        ],
+                        Bachelor: { UniOfQueensland: "Marketing" },
+        },
         favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
         like: ["cooking", "gaming", "puppys"],
         dislike: ["gyms", "winter", "alcohol"],
