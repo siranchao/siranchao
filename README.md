@@ -1,17 +1,18 @@
 ## Hi there! I’m Siran👋
 <a href="mailto:siranchao@gmail.com">![siranchao@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/siran-chao/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- Good to see you! I'm currently studying at SenecaCollege and working as a co-op at MPBSD.
+- Good to see you! I'm currently studying at SenecaCollege and working co-op at MPBSD.
 - I'm passionate in various of IT techologies including web-dev and software programming.
 
 <img align='right' src="https://res.cloudinary.com/siran-chao/image/upload/v1651520807/867c2dc081441211de96cb38285ff09_qijz0q.png" width="230">
 
 
-## 🌞 I'm Currently Doing
+## 🌞 Who am I
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
 - Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
-- Working on <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft low-code platform</a>: PowerApps, PowerAutomate
-- MEVN, MERN Stack applications: React, Vue3, TypeScript, MongoDB, Nuxt3 etc.
+- Fullstack MEVN, MERN applications dev: React, Gatsby/Next.js, Express.js, Node, TypeScript, MongoDB etc.
+- <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft low-code platform</a> dev: PowerApps, PowerAutomate etc.
+
 
 ## 🌈 What I'm Pursuing
 - To become a full-stack web developer
@@ -36,7 +37,6 @@
 <a href="https://www.oracle.com/ca-en/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vs" width="40" height="40"/> </a> </p>
 
 
 ![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/overview.svg)
@@ -48,18 +48,17 @@
 const moreAboutMe = () => {
     return {
         myName: "Siran Cao",
-        married: true,
-        currentWork: "low-code dev Co-op",
-        currentSemester: 4,
+        workExp: ["React", "Fullstack dev", "low-code", "System Anslysis"],
+        currentSemester: 5,
         eduBackground: {
                         Diploma: { SenecaCollege: "Computer Programming and Analsis" },
                         Master: { UniOfQueensland: "International Business" },
                         Bachelor: { UniOfQueensland: "Marketing" },
         },
         favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
-        like: ["cooking", "gaming", "puppys"],
+        like: ["cooking", "gaming", "cats"],
         dislike: ["gyms", "winter", "alcohol"],
-        challenge: "I am doing self-study of mastering React.js in 100 days!",
+        challenge: "I am doing self-study of mastering React.js",
 
         myFuture: undefined
     }
