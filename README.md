@@ -4,7 +4,7 @@
 - Good to see you! I’m Siran
 - I'm passionate in Web-dev, software programming and various of IT techologies
 
-<img align='right' src="https://res.cloudinary.com/siran-chao/image/upload/v1651520807/867c2dc081441211de96cb38285ff09_qijz0q.png" width="230">
+<img align='right' src="https://res.cloudinary.com/siran-chao/image/upload/v1651520807/867c2dc081441211de96cb38285ff09_qijz0q.png" width="200">
 
 
 ## 🌞 Who am I
