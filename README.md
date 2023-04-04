@@ -49,7 +49,7 @@
 const moreAboutMe = () => {
     return {
         myName: "Siran Cao",
-        workExp: ["React", "Fullstack dev", "low-code", "System Anslysis"],
+        keywords: ["React", "Next.js", "Fullstack web-dev", "PowerApps", "low-code", "software dev"],
         currentSemester: 5,
         eduBackground: {
                         Diploma: { SenecaCollege: "Computer Programming and Analsis" },
@@ -59,7 +59,7 @@ const moreAboutMe = () => {
         favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
         like: ["cooking", "gaming", "cats"],
         dislike: ["gyms", "winter", "alcohol"],
-        challenge: "I am doing self-study of mastering React.js",
+        challenge: "I am doing self-study of mastering React and Next.js",
 
         myFuture: undefined
     }
