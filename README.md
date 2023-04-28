@@ -2,15 +2,15 @@
 <a href="mailto:siranchao@gmail.com">![siranchao@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/siran-chao/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - Good to see you! I’m Siran
-- I'm passionate in Web-dev, software programming and various of IT techologies
+- I'm passionate in programming, web-dev, software engineering and various of IT techologies
 
 
 
 ## 🌞 Who am I
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
 - Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
-- Fullstack web dev: React, Gatsby/Next.js, Express.js, Node, TypeScript, MongoDB etc.
-- <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft low-code platform</a> dev: PowerApps, PowerAutomate etc.
+- Fullstack web-dev: React, Vue, Next.js, Node, Express.js, TypeScript, MongoDB etc.
+- <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Low-code platform</a>: PowerApps, PowerAutomate, Dataverse etc.
 
 
 ## 🌈 What I'm Pursuing
