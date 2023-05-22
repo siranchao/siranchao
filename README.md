@@ -2,7 +2,7 @@
 <a href="mailto:siranchao@gmail.com">![siranchao@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/siran-chao/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - Good to see you! I’m Siran
-- I'm passionate in programming, web-dev, software engineering and various of IT techologies
+- I'm passionate in programming, web/software development and various of IT techologies
 
 
 
