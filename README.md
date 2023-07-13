@@ -47,8 +47,8 @@
 //about me:
 const moreAboutMe = () => {
     return {
-        myName: "Siran Cao",
-        keywords: ["React", "Next.js", "web-dev", "PowerApps", "low-code", "software dev"],
+        name: "Siran Cao",
+        keywords: ["React", "Next.js", "web-dev", "PowerApps", "full-stack", "software dev"],
         eduBackground: {
                         Diploma: { SenecaCollege: "Computer Programming and Analsis" },
                         Master: { UniOfQueensland: "International Business" },
