@@ -9,7 +9,7 @@
 ## 🌞 Who am I
 - Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
 - Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
-- Fullstack web-dev: React, Vue, Next.js, Node, Express.js, TypeScript, MongoDB etc.
+- Web developer: React, Next.js, TypeScript, Node, Express, Python, Django, MongoDB etc.
 - <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Low-code platform</a>: PowerApps, PowerAutomate, Dataverse etc.
 
 
