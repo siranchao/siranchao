@@ -50,7 +50,7 @@
 const moreAboutMe = () => {
     return {
         name: "Siran Cao",
-        keywords: ["React", "Next.js", "web-dev", "PowerApps", "full-stack", "software dev"],
+        keywords: ["JavaScript", "TypeScript", "React", "Next.js", "web-dev", "full-stack"],
         eduBackground: {
                         Diploma: { SenecaCollege: "Computer Programming and Analsis" },
                         Master: { UniOfQueensland: "International Business" },
@@ -59,7 +59,7 @@ const moreAboutMe = () => {
         favoriteFood: ["Chinese", "Korean", "fried chicken", "icecream"],
         like: ["cooking", "gaming", "cats"],
         dislike: ["gyms", "winter", "alcohol"],
-        challenge: "I am doing self-study of mastering React and Next.js in 100 days",
+        challenge: "I am doing self-study of mastering full-stack dev in 100 days",
 
         myFuture: undefined
     }
