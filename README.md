@@ -31,14 +31,12 @@
 <a href="https://vuejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>   
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>  
 <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/></a>  
-<a href="https://v3.nuxtjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/></a>   
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>   
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>  
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/></a>   
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://azure.microsoft.com/en-ca" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/></a>  
 
 ![](https://raw.githubusercontent.com/siranchao/github-stats-transparent/output/generated/overview.svg)
