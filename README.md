@@ -7,14 +7,13 @@
 
 
 ## 🌞 Who am I
-- Computer Programming student at <a href="https://www.senecacollege.ca/home.html">Seneca College</a>
-- Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
-- Web developer: React, Next.js, TypeScript, Node, Express, Python, Django, MongoDB etc.
+- I am a front-end developer
+- My code stack: React, Next.js, TypeScript, Node, Python, MongoDB, MySQL etc.
 - <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Low-code platform</a>: PowerApps, PowerAutomate, Dataverse etc.
 
 
 ## 🌈 What I'm Pursuing
-- To become a full-stack developer
+- To learn modern & robust web-dev technologies
 - Dive deep into the "Rabbit Hole" to explore more unknowns😎
 
 
